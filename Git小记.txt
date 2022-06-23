@@ -1,0 +1,2 @@
+git config --global user.name "Gjjchongchongchong"
+git config --global user.email "2694692565@qq.com"
